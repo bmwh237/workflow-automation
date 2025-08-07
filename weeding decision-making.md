@@ -13,12 +13,13 @@ The following is a table that displays the resources I use to evaluate items:
 |--------|----------|------------|----------|------------------|-----|
 |Polaris: YTD & Previous YTD| X | | | |Accessed via Bib Record -> Statistics. Indicator for current relevance. YTD resets on 7/1.|
 |Polaris: Grand Total Circ| X | | X | X |Accessed via Bib Record -> Statistics. Distinct from lifetime circ as it includes circulation of deleted items. Indicator for overall popularity and general merit. Heavy circ may indicate "grubbiness"|
-|Polaris: # of Items| | X | | | Accessed via Bib Record -> Items. Only consider items that are `In`, `Out`, `Held`, `In-Transit`, or `Transferred`. The number of copies should be in-line with recent circ numbers.|
-|EBSCO Fiction Core Collection| | | X | |Available from LFPL Databases. For popular enough authors and titles, this database will determine how core an item is to an ideal library collection. Keep `Core` and `Recommended` titles; Weed (usually) `Supplemental` and `Weed` titles.|
-|GoodReads (for books)| X | | X | | By using a combination of rating, reviews, Reader's Choice nomination, and listed awards you can gain a pretty good picture of a book's quality and popularity.|
-|IMDB or Letterbox'd (for DVDs)| X | | X | |I prefer Letterbox'd for movies and IMDB for shows. Same methodology as GoodReads, but for shows and films.|
+|Polaris: # of Items| | X | | |Accessed via Bib Record -> Items. Only consider items that are `In`, `Out`, `Held`, `In-Transit`, or `Transferred`. The number of copies should be in-line with recent circ numbers.|
+|EBSCO Fiction Core Collection| | | X | |Available from LFPL Databases. For popular enough authors and titles, this database will determine how core an item is to an ideal library collection. Keep `Core` and `Recommended` titles; Weed (usually) `Supplemental` and `Weed` titles. Only relevant to fiction books.|
+|EBSCO Academic Search Complete| | | X | |Used to find academic and librarian reviews of nonfiction books. Books that have highly positive reviews I will be more inclined to keep.|
+|GoodReads (for books)| X | | X | |By using a combination of rating, reviews, Reader's Choice nomination, and listed awards you can gain a pretty good picture of a book's quality and popularity. Used with both fiction and non-fiction|
+|IMDB, TMDB or Letterbox'd (for DVDs)| X | | X | |I prefer Letterbox'd for movies and IMDB for shows. TMDB is also a good option for movies. Same methodology as GoodReads, but for shows and films.|
 |Rate Your Music (for CDs)| X | | X | |My go-to for determining how well-regarded or meritous an album is. Same methodology as GoodReads and Letterbox'd.|
-|Ol' Fashioned physical condition check| | | | X |Necessary to determine if an item is fine, gross, or falling apart. Some books can be repaired, but if their on the list to begin with, usually it's not worth it.|
+|Ol' Fashioned physical condition check| | | | X |Necessary to determine if an item is fine, gross, or falling apart. Some books can be repaired, but if they're on the list to begin with, usually it's not worth it.|
 
 By synthesizing all of the above evaluation materials (and incorporating my own knowledge and taste), I deliver my judgement
 regarding an item's future. There are four futures for an item: **Keep**, **Send to Remote**, **Withdraw and send to Friends' 
@@ -32,8 +33,8 @@ its order are as follows:
 ```
 # of Copies (# in RS & Iroquois) | YTD - Previous YTD | Grand Total Circ | GR rating - # of ratongs
 ```
-Then after writing this information down, I will consult the EBSCO Fiction Core Collection to see if the title has an entry.
-If it does, then I'll write that to the side. If it doesn't that's usually a sign it can be weeded.
+After writing this information down, I will consult the EBSCO Fiction Core Collection to see if the title has an entry.
+If it does, then I'll write that to the side. If it doesn't that's usually a sign it can be weeded (but not always!).
 
 After running all this data through my brain, I make my determination w/r/t the item. I then highlight the item the color that
 corresponds with my decision. 
@@ -42,3 +43,18 @@ corresponds with my decision.
 - Pink = Withdraw and Send to Friends' Vault
 - Orange = Withdraw and Discard
 - Yellow = Item missing or checked out before it could be evaluated
+
+I create record sets of all the items being considered for weeding each month. I set the owner of these record sets to be `Iroquois` and follow the naming convention of `MM-YYYY Iroquois SectionWeeded Weeding List`. For example, the record set for general fiction that I currently use is titled `11-2024 Iroquois Gen Fic & LT Weeding List`.
+## Process
+There will be minor differences between weeding fiction, non-fiction, and media. The workflow of evaluating is fundamentally 
+the same.
+1. Open up to browser windows and have each take up half the screen.
+2. On one screen open up Polaris and navigate to the record set containing the desired section.
+3. On the other screen open up the appropriate evaluation sites depending upon the materials being weeded.
+    * Fiction and genres: GoodReads and EBSCO Fiction Core Collection
+    * Nonfiction: GoodReads and EBSCO Academic Search Complete
+    * DVDs: IMDB, TMDB, or Letterbox'd
+    * CDs: RateYourMusic
+    * Wikipedia is also nice to have on hand to read about a book, movie, or album to see if there's more context that you're missing.
+4. Use the printed spreadsheet to find the next book that needs to be evaluated. Between the author and Pub Year column there's usually a lot of space. This is where I write the information highlighted above. Write down the relevant information from all the different sites.
+5. Repeat step 4 until you don't want to do it anymore. I will look at the sheet and make my evaluation based on the data and the condition of the actual item.
