@@ -1,6 +1,8 @@
 # Weeding decision-making workflow
 The purpose of this document is to outline the process of synthesizing the information used for making decisions regarding
-weeding or keeping materials.
+weeding or keeping materials. The final decision regarding the fate of an item will still be made by me, but this guide 
+should help elucidate what information I need to inform that decision. Until I can engineer a way to automate the synthesis
+of this info with Python, I hope this workflow guide will allow the clerks to help me in collecting the information I need!
 
 I create record sets of all the items being considered for weeding each month. I set the owner of these record sets to be 
 `Iroquois` and follow the naming convention of `MM-YYYY Iroquois SectionWeeded Weeding List`. For example, the record set 
