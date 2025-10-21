@@ -4,7 +4,7 @@ weeding or keeping materials.
 
 I create record sets of all the items being considered for weeding each month. I set the owner of these record sets to be 
 `Iroquois` and follow the naming convention of `MM-YYYY Iroquois SectionWeeded Weeding List`. For example, the record set 
-for general fiction that I currently use is titled `11-2024 Iroquois Gen Fic & LT Weeding List`.
+for general fiction that I used last year was titled `11-2024 Iroquois Gen Fic & LT Weeding List`.
 
 ## What goes into a decision?
 When weeding an item, I evaluate according to four main factors: popularity, availabilty, merit or reputation, and physical 
