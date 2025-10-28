@@ -76,7 +76,7 @@ corresponds with my decision.
 ## Process
 There will be minor differences between weeding fiction, non-fiction, and media. The workflow of evaluating is fundamentally 
 the same.
-1. (RECOMENDED) Open up two browser windows and have each take up half the screen.
+1. (RECOMMENDED) Open up two browser windows and have each take up half the screen.
 2. In one window open up Polaris and navigate to the record set containing the desired section.
 3. On the other window open up the appropriate evaluation sites depending upon the materials being weeded.
     * Fiction and genres: GoodReads and Fiction Core Collection
